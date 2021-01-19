@@ -1,6 +1,6 @@
 # Lane_Detection_Based_on_Image_Processing
 This project was created using the following article. <br>
-<a href="https://www.sciencedirect.com/science/article/abs/pii/S0045790620305085"> 
+<a href="https://www.sciencedirect.com/science/article/abs/pii/S0045790620305085" target="_blank"> 
 Lane Detection Technique Based on Perspective Transformation and Histogram Analysis for Self-Driving Cars
 </a>
 <br>
